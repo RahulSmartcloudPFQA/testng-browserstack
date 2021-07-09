@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.browserstack.SingleTest"/>
+      <class name="com.browserstack.suite.SuiteTest10"/>
+      <class name="com.browserstack.suite.SuiteTest02"/>
+      <class name="com.browserstack.suite.SuiteTest01"/>
+      <class name="com.browserstack.suite.SuiteTest08"/>
+      <class name="com.browserstack.suite.SuiteTest07"/>
+      <class name="com.browserstack.suite.SuiteTest09"/>
+      <class name="com.browserstack.suite.SuiteTest04"/>
+      <class name="com.browserstack.suite.SuiteTest03"/>
+      <class name="com.browserstack.suite.SuiteTest06"/>
+      <class name="com.browserstack.suite.SuiteTest05"/>
+      <class name="com.browserstack.BrowserStackTestNGTest"/>
+      <class name="com.browserstack.LocalTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
