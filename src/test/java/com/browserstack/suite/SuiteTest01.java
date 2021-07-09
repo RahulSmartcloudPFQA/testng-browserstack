@@ -21,4 +21,6 @@ public class SuiteTest01 extends BrowserStackTestNGTest {
         Assert.assertEquals("BrowserStack Test 01 - Google Search", driver.getTitle());
     }
     //
+    
+    //
 }
