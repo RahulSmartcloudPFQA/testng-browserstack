@@ -17,5 +17,7 @@
       <class name="com.browserstack.BrowserStackTestNGTest"/>
       <class name="com.browserstack.LocalTest"/>
     </classes>
+    
+    
   </test> <!-- Test -->
 </suite> <!-- Suite -->
